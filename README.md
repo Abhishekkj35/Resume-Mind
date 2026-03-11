@@ -75,3 +75,6 @@ ResumeMind
 
 │
 └── README.md
+
+# LIVE LINK 
+https://resume-analyzer-z7o9.onrender.com/
