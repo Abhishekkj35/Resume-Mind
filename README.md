@@ -5,27 +5,40 @@ The platform evaluates uploaded resumes and generates insights such as ATS score
 
 # Features
 AI-Powered Resume Analysis
+
 ATS Score Evaluation
+
 Section-Level Feedback
+
 Resume Upload System
+
 Intelligent Recommendations
+
 Secure Authentication
+
 Cloud Storage Integration
+
 Responsive UI
 
-#Tech Stack
+# Tech Stack
 Frontend: React.js, Tailwind CSS, JavaScript
+
 AI & Backend Services: Puter.js AI, Puter.js Authentication, Cloud Storage
+
 Other Tools: Git, GitHub, 
 
-#Application Workflow
+# Application Workflow
 User visits the homepage.
+
 User uploads their resume through the upload interface.
+
 The system processes the resume using AI analysis.
+
 ResumeMind evaluates the document and generates insights.
+
 Results page displays ATS score and improvement suggestions.
 
-Project Structure
+# Project Structure
 ResumeMind
 │
 ├── app
