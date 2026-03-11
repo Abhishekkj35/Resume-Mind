@@ -40,21 +40,38 @@ Results page displays ATS score and improvement suggestions.
 
 # Project Structure
 ResumeMind
+
 │
+
 ├── app
+
 ├── constants
+
 ├── public
+
 ├── types
+
 │
+
 ├── .dockerignore
+
 ├── .gitignore
+
 ├── Dockerfile
+
 │
+
 ├── package.json
+
 ├── package-lock.json
+
 │
+
 ├── react-router.config.ts
+
 ├── tsconfig.json
+
 ├── vite.config.ts
+
 │
 └── README.md
